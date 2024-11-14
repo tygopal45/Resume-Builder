@@ -1,0 +1,16 @@
+/* #cv-form{
+    display: none;
+} */
+#cv-template{
+    display: none;
+}
+
+.pfp{
+    /* border: solid 1px; */
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background{
+    background-color: aquamarine;
+}
